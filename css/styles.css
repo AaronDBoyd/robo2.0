@@ -1,0 +1,33 @@
+body {
+  background-color: #9a43eb;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 20px dotted  #eb913d;
+}
+
+p {
+  /* text-decoration: underline; */
+  font-weight: bolder;
+  border: 5px dotted  rgb(102, 41, 182);
+  color: rgb(42, 147, 165);
+  background-color:black;
+}
+
+ img {
+  width: 60%;
+  height: auto;
+  border: 10px dotted rgb(97, 170, 238);
+  padding: -10px;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+#output {
+  height: auto;
+  width: auto;
+  background-color:rgb(235, 145, 61);
+  font-family: georgia;
+  font-size: auto;
+}
