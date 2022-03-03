@@ -12,6 +12,7 @@ module.exports = {
     contentBase: './dist'      
   },
   plugins: [
+    new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: 'Robo 2.0',
       template: './src/index.html',

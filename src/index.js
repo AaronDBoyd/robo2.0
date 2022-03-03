@@ -1,7 +1,7 @@
 import 'bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './../css/styles.css';
-import beepBoop from './boop.js';
+import './../src/css/styles.css';
+import beepBoop from './js/boop.js';
 import $ from 'jquery';
 
 //UI Logic
